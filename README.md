@@ -6,7 +6,7 @@
 
 ## 🙋 About Me
 
-- 🎓 Fresh graduate in Informatics Engineering, Cum Laude
+- 🎓 Fresh graduate in Informatics Engineering, Cum Laude (3.98/4.00)
 - 💻 I build fullstack web apps, from the React interface to the Express API and MySQL database
 - 🎨 I enjoy UI/UX design and like turning wireframes into clean, usable interfaces
 - 🌍 Open to remote web development opportunities
