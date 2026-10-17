@@ -1,6 +1,6 @@
 # Hi there, I'm Febby 👋
 
-**Fullstack Web Developer | UI/UX & Graphic Designer**
+**Fullstack & Frontend Web Developer | UI/UX & Graphic Designer**
 
 ---
 
@@ -55,9 +55,9 @@
 <summary><b>Web & Frontend</b></summary>
 <br>
 
-- [Menjadi React Web Developer Expert](#) · Dicoding
-- [Belajar Fundamental Aplikasi Web dengan React](#) · Dicoding
-- [Belajar Membuat Aplikasi Web dengan React](#) · Dicoding
+- [Menjadi React Web Developer Expert](https://www.dicoding.com/certificates/6RPNO63R4X2M) · Dicoding
+- [Belajar Fundamental Aplikasi Web dengan React](https://www.dicoding.com/certificates/N9ZO0DJ0YXG5) · Dicoding
+- [Belajar Membuat Aplikasi Web dengan React](https://www.dicoding.com/certificates/GRX50G232Z0M) · Dicoding
 
 </details>
 
@@ -65,8 +65,8 @@
 <summary><b>UI/UX & Design</b></summary>
 <br>
 
-- [Intro to UI/UX - Gold](#) · Skilvul
-- [Pemikiran Desain 101](#) · Future Skills by Pijar Foundation
+- [Intro to UI/UX - Gold](https://badgr.com/public/assertions/mQjxuloaTiup48wgje6UFA?identity__email=febilengkong7@gmail.com) · Skilvul
+- [Pemikiran Desain 101](https://drive.google.com/file/d/1I2jKJjBZChXbE8BSqkj042l7VcIR2uE_/view?usp=sharing) · Future Skills by Pijar Foundation
 
 </details>
 
@@ -74,11 +74,11 @@
 <summary><b>Data, Database & DevOps</b></summary>
 <br>
 
-- [Belajar Dasar Structured Query Language (SQL)](#) · Dicoding
-- [Belajar Dasar Visualisasi Data](#) · Dicoding
-- [Intro to Data Analytics](#) · RevoU
-- [Microsoft Excel untuk Mengelola Pendataan](#) · Future Skills
-- [Belajar Dasar-Dasar DevOps](#) · Dicoding
+- [Belajar Dasar Structured Query Language (SQL)](https://www.dicoding.com/certificates/98XW8RM10PM3) · Dicoding
+- [Belajar Dasar Visualisasi Data](https://www.dicoding.com/certificates/MRZMVD6ONZYQ) · Dicoding
+- [Intro to Data Analytics](https://drive.google.com/file/d/1qROX2KtBfg-7_cEBi2wJMsuKw8lo3c_L/view?usp=sharing) · RevoU
+- [Microsoft Excel untuk Mengelola Pendataan](https://drive.google.com/file/d/1hJAiZvd-yTUbGHijeKXDSGg_lK4zK4BJ/view?usp=sharing) · Future Skills
+- [Belajar Dasar-Dasar DevOps](https://www.dicoding.com/certificates/MRZMV4KKLZYQ) · Dicoding
 
 </details>
 
@@ -86,9 +86,9 @@
 <summary><b>Mobile & Programming</b></summary>
 <br>
 
-- [Belajar Dasar Pengembangan Aplikasi Mobile](#) · Dicoding
-- [Google Play Store Listing Certificate](#) · Google Play Academy
-- [C++](#) · Sololearn
+- [Belajar Dasar Pengembangan Aplikasi Mobile](https://www.dicoding.com/certificates/1OP875WE1ZQK) · Dicoding
+- [Google Play Store Listing Certificate](https://www.credential.net/9b53c122-bf99-4ba3-b655-8ac0fbca35e8) · Google Play Academy
+- [C++](https://www.sololearn.com/certificates/CT-J7IHQHRE) · Sololearn
 
 </details>
 
